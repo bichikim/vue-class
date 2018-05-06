@@ -1,0 +1,1 @@
+{"version":3,"file":"app.js","sources":["../src/index.ts"],"sourcesContent":["export default {\r\n  hi: 'hi?'\r\n}\r\n"],"names":["hi"],"mappings":"+LACEA,GAAI"}
